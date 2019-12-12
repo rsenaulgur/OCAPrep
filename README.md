@@ -3,7 +3,7 @@
 ![](https://www.mememaker.net/api/bucket?path=static/img/memes/full/2017/Feb/17/8/oracle-errors-errors-everywhere.jpg)
 
 This is a personal guide to study for the Oracle Certified Associate Java SE 8 Examination.
-This guide will include a breakdown of each chapter covered in OCA, tips and notes, and some explanation for example questions.  
+This guide will include a breakdown of each chapter covered in OCA, tips and notes, and some explanations for example questions.  
 The OCA book by Jeanne Boyarsky and Scott Selikoff is / will be referenced mostly.
 You may clone it as you wish if found useful.
 
