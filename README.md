@@ -9,9 +9,9 @@ You may clone it as you wish if found useful.
 
 Best of luck to me and all the tester / developers to-be.
 
-[Chapter 1:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c1JavaBuildingBlocks) Java Building Blocks
-[Chapter 2:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c2OperationsAndStatements) Operators and Statements
-[Chapter 3:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c3CoreJavaAPIs) Core Java APIs
-[Chapter 4:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c4MethodsAndEncapsulation) Methods and Encapsulation
-[Chapter 5:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c5ClassDesign) Class Design
-[Chapter 6:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c6Exceptions) Exceptions
+![Chapter 1:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c1JavaBuildingBlocks) Java Building Blocks
+![Chapter 2:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c2OperationsAndStatements) Operators and Statements
+![Chapter 3:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c3CoreJavaAPIs) Core Java APIs
+![Chapter 4:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c4MethodsAndEncapsulation) Methods and Encapsulation
+![Chapter 5:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c5ClassDesign) Class Design
+![Chapter 6:] (https://github.com/rsenaulgur/OCAPrep/tree/master/src/chapters/c6Exceptions) Exceptions
